@@ -1,0 +1,5 @@
+print(6)
+print(6)
+print("yooooo")
+print("hey bishh")
+print(8*7)
