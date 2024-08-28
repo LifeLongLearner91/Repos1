@@ -21,3 +21,8 @@ print(f" {char*4}")
 print(f"{char}")
 print(f"{char*5}")
 
+print(f" {char*4}  {char*4}  {char*3}    {char*5}")
+print(f"{char}      {char}  {char}  {char}   {char}  {char}")
+print(f"{char}      {char}  {char}  {char}    {char}  {char*4}")
+print(f"{char}      {char}  {char}  {char}   {char}  {char}")
+print(f" {char*4}  {char*4}  {char*3}    {char*5}")
